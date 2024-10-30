@@ -1,4 +1,4 @@
-## Boas vindas ao meu perfil
+## Boas vindas ao meu perfil 💜
 
 Meu nome é Larissa Marques
 
@@ -6,7 +6,7 @@ Meu nome é Larissa Marques
 - Eu desenvolvo a linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-  ## Vc entra em contato comigo
+  ## Vc entra em contato comigo 📲
 
   lari.marques15642@gmail.com
   @Lari_marques13
